@@ -24,7 +24,7 @@ Running instructions:
 
 
 
-PT Remote is totally free to use, but if you like please consider donating:
+PT Remote is totally free to use, but if you like please consider donating:                                 
 BTC - 3BLLiMwJ8eGTPGFAmuBEvpVNenqgrvctsJ                                                              
 ETH - 0x77e7837a2463b2b76943e0cbe885c7cb3ce2b8a1                                                
 LTC - MJdBKvH8RCwgsCo49468uvpKZsNNnwVLy8                                 
