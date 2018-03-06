@@ -26,7 +26,7 @@ Current features:
 
 
 ## Contact and donations
-Feel free to message me on Discord: @divmang
+Feel free to message me on Discord: @divmang#5142
 
 PT Remote is totally free to use, but if you like please consider donating:                                 
 BTC - 3BLLiMwJ8eGTPGFAmuBEvpVNenqgrvctsJ                                                              
