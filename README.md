@@ -10,9 +10,11 @@ Current features:
 
 
 Install instructions:
-1- Download and install
-2- Open ptremote.properties and setup the following:
-      - PTDIR - This  is the path to Profit Trailer. For example, if you put ptremote in a directory inside Profit Trailer, then define the path as ../
+1- Make sure you have python 2.7 installed
+2- Install the requests module in python: Open a terminal, and type 'sudo easy_install -U requests'
+3- Download ptremote
+4- Open ptremote.properties and setup the following:
+      - PTDIR - This  is the path to Profit Trailer. For example, if you put ptremote inside Profit Trailer, then define the path as ./
       - TOKEN and CHATID - these are the same telegram variables that you configured in Profit Trailer (if you didn't, please do so before using this)
       
 
