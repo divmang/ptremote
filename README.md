@@ -8,6 +8,7 @@ Current features:
     - DCA: It will show your current DCA pairs in PT with respective profit/loss
     - Profit: It will give you both your total and daily profits in BTC (Note: due to PT limitations, the total profit is currently capped in days. A new version of PT Remote will fix this by storing the data locally.)
 
+![image](https://user-images.githubusercontent.com/36821260/37041860-110e0512-2155-11e8-9e56-7d44708e89c8.png)
 
 ## Install instructions
 1. Make sure you have python 2.7 installed
